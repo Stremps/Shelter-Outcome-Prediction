@@ -8,7 +8,8 @@ Dataset link: https://www.kaggle.com/c/shelter-animal-outcomes/data
 
 ## 2. Data Pre-processing:
 - ~~Clean the data, handling missing values and categorical variables.~~
-- Normalize or standardize the data as necessary.
+- ~~Convert categorial values to numerical ones~~
+- Normalize or standardize the data as necessary (use sklearn.preprocessing MinMaxScaler and StandardScaler on 'AgeuponOutcome').
 - Split the data into training and testing sets.
 
 ## 3. Modeling:
