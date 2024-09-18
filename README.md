@@ -4,7 +4,7 @@ Dataset link: https://www.kaggle.com/c/shelter-animal-outcomes/data
 ## 1. Exploratory Data Analysis (EDA):
 - ~~Load and familiarize yourself with the dataset.~~
 - ~~Perform exploratory data analysis to understand the distribution and characteristics of the variables.~~
-- Visualize the correlations between different characteristics and the outcomes for the animals.
+- ~~Visualize the correlations between different characteristics and the outcomes for the animals.~~
 
 ## 2. Data Pre-processing:
 - ~~Clean the data, handling missing values and categorical variables.~~
